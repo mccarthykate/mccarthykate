@@ -1,0 +1,42 @@
+---
+title: "Gallery"
+---
+
+<div style="column-count: 3; column-gap: 20px;">
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert1.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert2.JPG" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert3.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="horiz1.JPEG" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert4.JPG" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert5.JPG" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert6.JPG" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert7.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="horiz2.JPEG" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert8.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert9.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert10.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert11.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert12.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert13.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert14.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert15.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert16.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert17.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert18.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert19.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert20.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert21.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert22.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert23.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert24.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert25.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert26.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert27.JPG" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert28.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert29.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert30.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert31.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert32.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert33.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+  <div style="margin-bottom: 20px; break-inside: avoid;"><img src="vert34.jpeg" style="width: 100%; height: auto; border-radius: 8px;"/></div>
+</div>

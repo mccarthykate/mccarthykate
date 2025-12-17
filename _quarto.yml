@@ -5,16 +5,17 @@ project:
 website:
   title: "mccarthykate"
   navbar:
+    background: dark
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Experience.qmd
+      - href: Projects.qmd
+      - href: Gallery.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: united
     css: styles.css
     toc: true
 

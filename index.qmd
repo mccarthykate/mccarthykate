@@ -1,11 +1,17 @@
 ---
-title: "mccarthykate"
----
+title: "Kate McCarthy"
+image: katemccarthyJT.jpg
+about:
+  template: jolla
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/katemccarthyy
+    - text: GitHub
+      href: https://github.com/mccarthykate
+    - text: Email
+      href: mailto:kate.a.mccarthy48@gmail.com
+--- 
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am a graduate student at Colorado State studying ecosystem science and sustainability. After graduating with a Bachelor of Arts in Environmental Studies, I continued my education to build on my technical skills and gain professional experience in environmental monitoring. I have experience with ArcGIS and Miradi and using these tools to address environmental concerns and devise a solution. Currently, I am focusing on water resource management of riparian ecosystems, ultimately hoping to assist with aquatic ecosystem restoration projects. Upon completing my Professional Science Master’s degree, I am seeking a career in watershed management locally, in Larimer County.

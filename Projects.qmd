@@ -1,0 +1,36 @@
+---
+title: "Projects"
+toc: false
+---
+
+Below are projects I've worked on throughout my undergraduate and graduate education. They range from professional writing, to presentations, to work done for a student-run non-profit club at UCSB.
+
+### *Final Environmental Impact Report* [View PDF](FEIRwebsite.pdf){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+
+In my senior year, I took a class in which we were tasked with writing a focused EIR for a hypothetical combined faculty housing and classroom space project on UCSB's campus. This EIR focuses on aesthetic resources. 
+
+### *Chilean Salmon Aquaculture Research Paper* [View PDF](es149researchpaper.pdf){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+
+In my Food, Agriculture, and the Environment class, we worked throughout the quarter on creating a research paper on ecological issues related to food and agriculture. I chose to research Chilean Salmon Aquaculture as Chile is the second largest producer of salmon in the world. 
+
+### *Alaskan Giant Kelp Forest Conservation Plan* [View PDF](conservationplan.pdf){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"} 
+
+For Conservation Planning, which I took in my senior year, I worked collaboratively with other students to create a conservation plan for a specific ecosystem, electing to protect the Alaskan Giant Kelp Forest. The comprehensive plan covers planning context, the planning team and management process, situation analysis, project scope, fundamental objectives, desired outcomes, conservation features, the range of strategies, strategy selection, data and knowledge, and risks/uncertainties. 
+
+### *Public Comment on BOEM Project* [View PDF](publiccomment.pdf){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+
+In Intro to Environmental Law, we prepared public comment on a hypothetical project proposed by the Bureau of Ocean Energy Management (BOEM) to build an offshore computer chip manufacturing facility. The comment advises the level of review, impacts to consider, mitigation measures, alternatives, and agency requirements by the Endangered Species Act. 
+
+### *Isla Vista Trading Post 2024 Zine* [View PDF](IVTP2024.pdf){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+
+In my undergrad, I was part of a club, Isla Vista Trading Post (IVTP), that promoted sustainable fashion, mostly by hosting 3-For-Free events, where students and community members could get 3 free items of clothing donated from the community. As co-outreach director, I was tasked with creating the zine for 2024. We created a physical zine to distribute to the community to spread the word about our club and educate readers on topics ranging from upcycling tutorials and thrifting tips to articles on haul culture and animal exploitation. 
+
+### *Isla Vista Trading Post Website* <a href="https://ivtradingpost.wixsite.com/ivtp" class="btn btn-outline-dark btn-sm" style="float: right;" target="_blank">Visit Site</a>
+
+Another part of my role as co-outreach director was to create the website for the club. Using a wix website, we worked to display our accomplishments, add a section for all the zines we've done to be accessed online, and inform people how to become part of the pick-up list for donations. 
+
+
+
+
+
+
