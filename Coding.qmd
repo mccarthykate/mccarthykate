@@ -1,0 +1,24 @@
+---
+title: "Coding"
+toc: false
+---
+
+Below are coding-specific projects I've worked on throughout my graduate education. Most of the projects are focused on environmental data analysis of water resources.
+
+### *Exploring Streamflow Across the Colorado River Basin* [View Site](https://mccarthykate.github.io/csu-523c/lab-01){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+
+### *Spatial Analysis Skills for Environmental Science* [View Site](https://mccarthykate.github.io/csu-523c/lab-02){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+
+### *National Dam Inventory (NID) Tessellations* [View Site](https://mccarthykate.github.io/csu-523c/lab-03){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+
+### *Palo Iowa Flooding: Rasters and Remote Sensing* [View Site](https://mccarthykate.github.io/csu-523c/lab-04){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+
+### *Machine Learning in Hydrology* [View Site](https://mccarthykate.github.io/csu-523c/lab-05){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+
+### *Streamflow Predictions on the Cache La Poudre River* [View Site](https://mccarthykate.github.io/csu-523c/lab-06){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+
+### *Vegetation Recovery Remote Sensing Model* [View Presentation](ess523dfinal.pdf){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+
+## Minor Projects Available on GitHub ### 
+
+### *Github Page* [Visit Site](https://github.com/mccarthykate){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}

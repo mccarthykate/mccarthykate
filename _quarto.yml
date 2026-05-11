@@ -11,7 +11,9 @@ website:
         text: Home
       - href: Experience.qmd
       - href: Projects.qmd
+      - href: Coding.qmd
       - href: Gallery.qmd
+
 
 format:
   html:
