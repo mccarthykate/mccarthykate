@@ -7,18 +7,34 @@ Below are coding-specific projects I've worked on throughout my graduate educati
 
 ### *Exploring Streamflow Across the Colorado River Basin* [View Site](https://mccarthykate.github.io/csu-523c/lab-01){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
 
+Worked with real streamflow records pulled directly from the USGS National Water Information System (NWIS). Built a complete analytical pipeline: from raw API call to normalized comparisons, threshold detection, basin-wide trend visualization, and a predictive model.
+
 ### *Spatial Analysis Skills for Environmental Science* [View Site](https://mccarthykate.github.io/csu-523c/lab-02){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+
+Conducted spatial analysis by building sf objects from multiple sources, transforming coordinate reference systems, computing distances to boundaries, and identifying features within threshold zones. 
 
 ### *National Dam Inventory (NID) Tessellations* [View Site](https://mccarthykate.github.io/csu-523c/lab-03){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
 
+Conducted an analysis of dams across the Continental United States. Tessellated surfaces to discretize space, Geometry simplification to expedite expensive intersections, wrote functions to automate repetitive reporting and mapping tasks, point-in-polygon counts to aggregate point data. 
+
 ### *Palo Iowa Flooding: Rasters and Remote Sensing* [View Site](https://mccarthykate.github.io/csu-523c/lab-04){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+
+Evaluate the impacts of flooding in Palo, Iowa because it is up stream of Cedar Rapids, contains a large amount of farm land, and does not have a forecast location to provide warning. Created flood images using mutliband Landsat Imagery, thresholding, and classification methods.
 
 ### *Machine Learning in Hydrology* [View Site](https://mccarthykate.github.io/csu-523c/lab-05){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
 
+Explored predictive modeling in hydrology using the tidymodels framework and the CAMELS (Catchment Attributes and Meteorology for Large-sample Studies) dataset. 
+
 ### *Streamflow Predictions on the Cache La Poudre River* [View Site](https://mccarthykate.github.io/csu-523c/lab-06){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+
+Analyzed streamflow data on the Cache la Poudre River (USGS site 06752260) using time series methods. Used modeltime to predict future streamflow using both the time structure of the series and exogenous climate predictors.
 
 ### *Vegetation Recovery Remote Sensing Model* [View Presentation](ess523dfinal.pdf){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
 
-## Minor Projects Available on GitHub ### 
+Tracked vegetation recovery following a 2015 fire in the Yukon-Kuskokwim Delta in Alaska. Combined ground-truth and raster data for 2019 to build model to predict above-ground biomass (AGBio). Compared AGBio values across time (2014, 2016, 2019, 2022) to track vegetation regrowth. 
+
+
+
+## Minor Projects Available on GitHub 
 
 ### *Github Page* [Visit Site](https://github.com/mccarthykate){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
