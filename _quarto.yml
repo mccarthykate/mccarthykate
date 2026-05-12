@@ -10,9 +10,13 @@ website:
       - href: index.qmd
         text: Home
       - href: Experience.qmd
+        text: Experience
       - href: Projects.qmd
+        text: Projects
       - href: Coding.qmd
+        text: Coding
       - href: Gallery.qmd
+        text: Gallery
 
 
 format:
