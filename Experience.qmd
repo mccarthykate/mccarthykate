@@ -55,9 +55,9 @@ toc: false
 
 ------------------------------------------------------------------------
 
-### Full Resume [View PDF](resumesept2025.pdf){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
+### Full Resume [View PDF](resume_may26.pdf){.btn .btn-outline-dark .btn-sm style="float: right;" target="_blank"}
 
--   updated September 2025
+-   updated May 2026
 
 
 
